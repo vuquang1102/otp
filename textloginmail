@@ -1,0 +1,12 @@
+{
+  "//a[text() = 'Sign in']": "Click",
+  "//input[@type='email']": "FillMail",
+  "//input[@type='password' and @aria-disabled = 'false']": "FillPass",
+  "//a[@href='https://mail.google.com/mail/u/0/#inbox']": "Done",
+  "//span[text() = 'Verify it’s you']": "Verify",
+  "//span[text() = 'Not now']": "Click",
+  "//span[text() = 'Wrong password. Try again or click Forgot password to reset it.']": "Saipass",
+  "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
+  "//h1[text()='Unable to access a Google product']": "Disable",
+  "//span[text() = 'Your password was changed less than an hour ago']": "SaiPass"
+}
