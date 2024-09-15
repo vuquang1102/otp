@@ -7,6 +7,6 @@
   "//span[text() = 'Not now']": "Click",
   "//span[text() = 'Wrong password. Try again or click Forgot password to reset it.']": "Saipass",
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
-  "//h1[text()='Unable to access a Google product']": "Disable",
-  "//span[text() = 'Your password was changed less than an hour ago']": "SaiPass"
+  "//h1[text()='Unable to access a Google product']": "DisInbox",
+  "//span[contains(text(), 'password was changed')]": "ChangePass"
 }
