@@ -1,0 +1,9 @@
+{
+  "nudMaxThread": "1",
+  "nudMinOTP": "10",
+  "nudTimeoutOTP": "60",
+  "nudMinMail": "1",
+  "cbAutoRestartApp": "1",
+  "cbCheckMailDieThread": "0",
+  "cbCheckMailDieWhenStart": "0"
+}
