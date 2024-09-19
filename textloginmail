@@ -7,6 +7,7 @@
   "//div[text()='Type the text you hear or see']": "Disable",
   "//a[text() = 'Sign in']": "Click",
   "//input[@type='email']": "FillMail",
+  "//div[text()= 'Couldn’t find your Google Account']": "Saipass",
   "//input[@type='password' and @aria-disabled = 'false']": "FillPass",
   "//a[@href='https://mail.google.com/mail/u/0/#inbox']": "Done",
   "//span[text() = 'Not now']": "Click",
@@ -14,5 +15,6 @@
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
   "//h1[text()='Unable to access a Google product']": "DisInbox",
   "//span[contains(text(), 'password was changed')]": "ChangePass",
-  "//div[text()='Type the text you hear or see']": "Disable"
+  "//div[text()='Type the text you hear or see']": "Disable",
+  "//div[text()= 'Couldn’t find your Google Account']": "Saipass"
 }
