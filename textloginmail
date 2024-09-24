@@ -13,6 +13,7 @@
   "//a[@href='https://mail.google.com/mail/u/0/#inbox']": "Done",
   "//span[text() = 'Not now']": "Click",
   "//span[text() = 'Để sau']": "Click",
+  "//span[text() = 'Cancel']": "Click",
   "//span[text() = 'Wrong password. Try again or click Forgot password to reset it.']": "Saipass",
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
   "//h1[text()='Unable to access a Google product']": "DisInbox",
