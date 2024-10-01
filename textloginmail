@@ -14,6 +14,7 @@
   "//span[text() = 'Not now']": "Click",
   "//span[text() = 'Để sau']": "Click",
   "//span[text() = 'Cancel']": "Click",
+  "//span[text() = 'Skip']": "Click",
   "//span[text() = 'Not now']": "Click",
   "//span[text() = 'Wrong password. Try again or click Forgot password to reset it.']": "Saipass",
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
