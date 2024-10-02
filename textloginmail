@@ -5,7 +5,6 @@
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
   "//h1[text()='Unable to access a Google product']": "DisInbox",
   "//span[contains(text(), 'password was changed')]": "ChangePass",
-  "//div[text()='Type the text you hear or see']": "Disable",
   "//a[text() = 'Sign in']": "Click",
   "//input[@type='email']": "FillMail",
   "//div[text()= 'Couldn’t find your Google Account']": "Saipass",
@@ -22,5 +21,6 @@
   "//h1[text()='Unable to access a Google product']": "DisInbox",
   "//span[contains(text(), 'password was changed')]": "ChangePass",
   "//div[text()='Type the text you hear or see']": "Disable",
-  "//div[text()= 'Couldn’t find your Google Account']": "Saipass"
+  "//div[text()= 'Couldn’t find your Google Account']": "Saipass",
+  "//div[text()='Type the text you hear or see']": "Disable"
 }
