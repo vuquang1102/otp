@@ -12,7 +12,7 @@
   "//div[text()='Type the text you hear or see' and @aria-hidden = 'false']": "Disable",
   "//div[text()= 'Couldn’t find your Google Account']": "Saipass",
   "//span[text() = 'Wrong password. Try again or click Forgot password to reset it.']": "Saipass",
-  "//span[text() = 'Verify it’s you']": "Verify",
+  "//div[text() = 'Confirm you’re not a robot']": "Verify",
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
   "//h1[text()='Unable to access a Google product']": "DisInbox",
   "//span[contains(text(), 'password was changed')]": "ChangePass",
