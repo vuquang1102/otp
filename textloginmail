@@ -16,6 +16,7 @@
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
   "//h1[text()='Unable to access a Google product']": "DisInbox",
   "//span[contains(text(), 'password was changed')]": "ChangePass",
+  "//span[text() = '2-Step Verification']": "2Step",
   "//span[text() = 'Not now']": "Click",
   "//span[text() = 'Để sau']": "Click",
   "//span[text() = 'Cancel']": "Click",
