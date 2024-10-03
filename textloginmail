@@ -1,5 +1,6 @@
 {
   "//a[text() = 'Sign in']": "Click",
+  "//div[contains(text(), 'Confirm the recovery email address you added')]": "FillRecovery",
   "//input[@type='email']": "FillMail",
   "//div[text()= 'Couldn’t find your Google Account']": "Saipass",
   "//input[@type='password' and @aria-disabled = 'false']": "FillPass",
