@@ -18,6 +18,7 @@
   "//span[contains(text(), 'password was changed')]": "ChangePass",
   "//span[text() = '2-Step Verification']": "2Step",
   "//div[contains(text(), 'Google sent a notification to')]": "confirmOnPhone",
+  "//div[contains(text(), 'Google couldn’t verify this account belongs to you')]": "couldn’tverify",
   "//span[text() = 'Not now']": "Click",
   "//span[text() = 'Để sau']": "Click",
   "//span[text() = 'Cancel']": "Click",
