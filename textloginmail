@@ -17,7 +17,6 @@
   "//h1[text()='Unable to access a Google product']": "DisInbox",
   "//span[contains(text(), 'password was changed')]": "ChangePass",
   "//span[text() = '2-Step Verification']": "2Step",
-  "//div[contains(text(), 'Google sent a notification to')]": "confirmOnPhone",
   "//span[text() = 'Not now']": "Click",
   "//span[text() = 'Để sau']": "Click",
   "//span[text() = 'Cancel']": "Click",
