@@ -20,6 +20,7 @@
   "//span[text() = '2-Step Verification']": "2Step",
   "//div[contains(text(), 'Google sent a notification to')]": "confirmOnPhone",
   "//div[contains(text(), 'Google couldn’t verify this account belongs to you')]": "couldn’tverify",
+  "//div[text() = 'Enter a phone number to get a text message with a verification code.']": "addPhone",
   "//span[text() = 'Not now']": "Click",
   "//span[text() = 'Để sau']": "Click",
   "//span[text() = 'Cancel']": "Click",
