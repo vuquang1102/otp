@@ -17,7 +17,7 @@
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
   "//h1[text()='Unable to access a Google product']": "DisInbox",
   "//a[@href='https://mail.google.com/mail/u/0/#inbox']": "Done",
-  "//span[contains(text(), 'password was changed')]": "ChangePass",
+  "//span[contains(text(), 'password was changed') and not(@class='y2')]": "ChangePass",
   "//span[text() = '2-Step Verification']": "2Step",
   "//div[contains(text(), 'Google sent a notification to')]": "confirmOnPhone",
   "//div[contains(text(), 'Google couldn’t verify this account belongs to you')]": "couldn’tverify",
