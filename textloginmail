@@ -3,6 +3,7 @@
   "//div[contains(text(), 'Confirm the recovery email address you added')]": "FillRecovery",
   "//div[contains(text(), 'Google couldn’t verify this account belongs to you.')]": "ErrorBelongtoyou",
   "//div[contains(text(), 'Google sent a notification to your')]": "ConfirmOnPhone",
+  "//div[contains(text(), 'This browser or app may not be secure.')]": "ErrorSercure",
   "//input[@type='email']": "FillMail",
   "//div[text()= 'Couldn’t find your Google Account']": "Saipass",
   "//span[contains(text(), 'password was changed') and not(@class='y2')]": "ChangePass",
