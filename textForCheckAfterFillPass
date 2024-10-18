@@ -1,5 +1,6 @@
 {
   "//div[contains(text(), 'Google couldn’t verify this account belongs to you.')]": "ErrorBelongtoyou",
+  "//h1[text() = 'Xác minh danh tính của bạn']": "VeriPhone",
   "//div[contains(text(), 'Google sent a notification to your')]": "ConfirmOnPhone",
   "//div[contains(text(), 'This browser or app may not be secure.')]": "ErrorSercure",
   "//span[contains(text(), 'password was changed') and not(@class='y2')]": "ChangePass",
