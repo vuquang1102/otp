@@ -5,5 +5,7 @@
   "//span[text() = 'Cancel']": "Click",
   "//span[text() = 'Skip']": "Click",
   "//span[text() = 'Not now']": "Click",
+  "//span[text() = 'Pular']": "Click",
+  "//span[text() = 'Agora não']": "Click",
   "//div[text() = 'Confirm your recovery email']": "Click"
 }
