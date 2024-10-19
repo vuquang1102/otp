@@ -7,5 +7,7 @@
   "//span[text() = 'Not now']": "Click",
   "//span[text() = 'Pular']": "Click",
   "//span[text() = 'Agora não']": "Click",
+  "//span[text() = 'Pomiń']": "Click",
+  "//span[text() = 'Nie teraz']": "Click",
   "//div[text() = 'Confirm your recovery email']": "Click"
 }
