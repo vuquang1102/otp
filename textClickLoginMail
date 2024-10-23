@@ -1,6 +1,7 @@
 {
   "//a[text() = 'Sign in']": "Click",
   "//span[text() = 'Not now']": "Click",
+  "//span[text() = 'Huỷ']": "Click",
   "//span[text() = 'Để sau']": "Click",
   "//span[text() = 'Cancel']": "Click",
   "//span[text() = 'Skip']": "Click",
