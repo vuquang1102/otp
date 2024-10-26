@@ -16,6 +16,7 @@
   "//div[contains(text(), 'We noticed unusual activity in your Google Account')]": "unusualactivity",
   "//div[text() = 'Enter a phone number to get a text message with a verification code.']": "addPhone",
   "//span[text() = 'Get a verification code']": "GetCode",
+  "//span[text() = 'Confirm your recovery phone number']": "VeryPhone",
   "span[text() = 'Account disabled']": "disable",
   "//div[contains(text(), 'Choose an account to get your code')]": "confirmOnPhone"
 }
