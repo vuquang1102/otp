@@ -1,5 +1,6 @@
 {
   "//input[@value = 'Next']": "Click",
   "//span[text() = 'OK']": "Click",
+  "//a[@id='iShowSkip']": "Click",
   "//*[@type='submit']": "Click"
 }
