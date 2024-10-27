@@ -1,1 +1,16 @@
-tẽt
+{
+  "//input[@value = 'Next']": "Click",
+  "//span[text() = 'Not now']": "Click",
+  "//span[text() = 'Nie teraz']": "Click",
+  "//span[text() = 'Anuluj']": "Click",
+  "//span[text() = 'Huỷ']": "Click",
+  "//span[text() = 'Để sau']": "Click",
+  "//span[text() = 'Cancel']": "Click",
+  "//span[text() = 'Skip']": "Click",
+  "//span[text() = 'Not now']": "Click",
+  "//span[text() = 'Pular']": "Click",
+  "//span[text() = 'Agora não']": "Click",
+  "//span[text() = 'Pomiń']": "Click",
+  "//span[text() = 'Nie teraz']": "Click",
+  "//div[text() = 'Confirm your recovery email']": "Click"
+}
