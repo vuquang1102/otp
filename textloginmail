@@ -11,6 +11,7 @@
   "//input[@type='password' and @aria-disabled = 'false']": "FillPass",
   "//span[text()='Account recovery']": "Saipass",
   "//a[@href='https://mail.google.com/mail/u/0/#inbox']": "Done",
+  "//p[text() =' Create and manage your Google Cloud instances, disks, networks, and other resources in one place. ']": "Done",
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
   "//h1[text()='Unable to access a Google product']": "DisInbox",
   "//div[text()='Type the text you hear or see' and @aria-hidden = 'false']": "Disable",
