@@ -1,4 +1,7 @@
 {
+  "//a[@href='https://mail.google.com/mail/u/0/#inbox']": "Done",
+  "/html/body/div[7]/div[2]/div/mat-dialog-container/div/div/xap-deferred-loader-outlet/ng-component/mat-dialog-content/p": "Done",
+  "//span[text() = 'APIs & Services']": "Done",
   "//a[text() = 'Sign in']": "Click",
   "//div[contains(text(), 'Confirm the recovery email address you added')]": "FillRecovery",
   "//div[contains(text(), 'Google couldn’t verify this account belongs to you.')]": "ErrorBelongtoyou",
@@ -10,9 +13,6 @@
   "//span[text() = 'Wrong password. Try again or click Forgot password to reset it.']": "Saipass",
   "//input[@type='password' and @aria-disabled = 'false']": "FillPass",
   "//span[text()='Account recovery']": "Saipass",
-  "//a[@href='https://mail.google.com/mail/u/0/#inbox']": "Done",
-  "/html/body/div[7]/div[2]/div/mat-dialog-container/div/div/xap-deferred-loader-outlet/ng-component/mat-dialog-content/p": "Done",
-  "//span[text() = 'APIs & Services']": "Done",
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
   "//h1[text()='Unable to access a Google product']": "DisInbox",
   "//div[text()='Type the text you hear or see' and @aria-hidden = 'false']": "Disable",
