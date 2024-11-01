@@ -24,6 +24,7 @@
   "//div[contains(text(), 'Google sent a notification to')]": "confirmOnPhone",
   "//div[contains(text(), 'Google couldn’t verify this account belongs to you')]": "couldn’tverify",
   "//div[text() = 'Enter a phone number to get a text message with a verification code.']": "addPhone",
+  "//div[text() = 'Unavailable because of too many attempts. Please try again later.']": "SaiRecovery",
   "span[text() = 'Account disabled']": "disable",
   "//div[text() = 'Confirm your recovery email']": "Click",
   "//a[text() = 'Sign in']": "Click",
