@@ -4,6 +4,7 @@
   "//span[text() = 'APIs & Services']": "Done",
   "//a[text() = 'Sign in']": "Click",
   "//*[text() = 'Unavailable because of too many attempts. Please try again later.']": "SaiRecovery",
+  "//*[contains(text(), 'Unavailable because of too many attempts')]": "SaiRecovery",
   "//div[contains(text(), 'Confirm the recovery email address you added')]": "FillRecovery",
   "//div[contains(text(), 'Google couldn’t verify this account belongs to you.')]": "ErrorBelongtoyou",
   "//div[contains(text(), 'Google sent a notification to your')]": "ConfirmOnPhone",
