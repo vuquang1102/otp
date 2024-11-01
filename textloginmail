@@ -3,7 +3,7 @@
   "/html/body/div[7]/div[2]/div/mat-dialog-container/div/div/xap-deferred-loader-outlet/ng-component/mat-dialog-content/p": "Done",
   "//span[text() = 'APIs & Services']": "Done",
   "//a[text() = 'Sign in']": "Click",
-  "//div[text() = 'Unavailable because of too many attempts. Please try again later.']": "SaiRecovery",
+  "//*[text() = 'Unavailable because of too many attempts. Please try again later.']": "SaiRecovery",
   "//div[contains(text(), 'Confirm the recovery email address you added')]": "FillRecovery",
   "//div[contains(text(), 'Google couldn’t verify this account belongs to you.')]": "ErrorBelongtoyou",
   "//div[contains(text(), 'Google sent a notification to your')]": "ConfirmOnPhone",
