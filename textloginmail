@@ -1,4 +1,5 @@
 {
+  "//*[text() = 'Application type']": "Done",
   "//a[@href='https://mail.google.com/mail/u/0/#inbox']": "Done",
   "/html/body/div[7]/div[2]/div/mat-dialog-container/div/div/xap-deferred-loader-outlet/ng-component/mat-dialog-content/p": "Done",
   "//span[text() = 'APIs & Services']": "Done",
