@@ -3,5 +3,6 @@
   "//div[@class = 'mat-mdc-dialog-surface mdc-dialog__surface']" : "Done",
   "//*[text() = 'Application type']" : "Done",
   "//input[@aria-label='Enter query to search for resources, docs, products, and more']" : "Done",
-  "//*[text() = 'Sử dụng một tài khoản khác']" : "Done"
+  "//*[text() = 'Sử dụng một tài khoản khác']" : "Done",
+  "//span[contains(text(), 'Overview')]" : "Done"
 }
