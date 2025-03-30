@@ -1,0 +1,7 @@
+{
+  "//a[@href='https://mail.google.com/mail/u/0/#inbox']" : "Done",
+  "//div[@class = 'mat-mdc-dialog-surface mdc-dialog__surface']" : "Done",
+  "//*[text() = 'Application type']" : "Done",
+  "//input[@aria-label='Enter query to search for resources, docs, products, and more']" : "Done",
+  "//*[text() = 'Sử dụng một tài khoản khác']" : "Done"
+}
