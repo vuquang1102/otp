@@ -30,7 +30,6 @@
   "//span[text() = '2-Step Verification']": "2Step",
   "//div[contains(text(), 'Google sent a notification to')]": "confirmOnPhone",
   "//div[contains(text(), 'Google couldn’t verify this account belongs to you')]": "couldn’tverify",
-  "//*[text() = 'Type the text you hear or see']": "VerifyCapcha",
   "//div[text() = 'Enter a phone number to get a text message with a verification code.']": "addPhone",
   "span[text() = 'Account disabled']": "disable",
   "//div[text() = 'Confirm your recovery email']": "Click",
