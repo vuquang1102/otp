@@ -9,7 +9,6 @@
   "//div[text()='Type the text you hear or see' and @aria-hidden = 'false']": "Disable",
   "//div[text() = 'Confirm you’re not a robot']": "Verify",
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
-  "//*[text() = 'Type the text you hear or see']": "VerifyCapcha",
   "//h1[text()='Unable to access a Google product']": "DisInbox",
   "//span[text() = '2-Step Verification']": "2Step",
   "//div[contains(text(), 'Google sent a notification to')]": "confirmOnPhone",
