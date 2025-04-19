@@ -23,6 +23,7 @@
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
   "//h1[text()='Unable to access a Google product']": "DisInbox",
   "//div[text()='Type the text you hear or see' and @aria-hidden = 'false']": "Disable",
+  "//*[text() = 'Please enter the characters you see in the image above']": "Captcha",
   "//div[text() = 'Confirm you’re not a robot']": "Verify",
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
   "//h1[text()='Unable to access a Google product']": "DisInbox",
