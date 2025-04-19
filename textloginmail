@@ -16,7 +16,6 @@
   "//div[contains(text(), 'This browser or app may not be secure.')]": "ErrorSercure",
   "//div[text()= 'Couldn’t find your Google Account']": "NonExist",
   "//*[text() = 'Please enter the characters you see in the image above']": "Captcha",
-  "/html/body/div[1]/div[1]/div[2]/c-wiz/div/div[2]/div/div/div/form/span/section[2]/div/div/div[2]/div[1]/img": "Captcha-FullXpath",
   "//input[@type='email']": "FillMail",
   "//span[contains(text(), 'password was changed') and not(@class='y2')]": "ChangePass",
   "//span[text() = 'Wrong password. Try again or click Forgot password to reset it.']": "Saipass",
