@@ -20,5 +20,6 @@
   "span[text() = 'Account disabled']": "disable",
   "//div[text() = 'Unavailable because of too many attempts. Please try again later.']": "SaiRecovery",
   "//div[contains(text(), 'Choose an account to get your code')]": "confirmOnPhone",
-  "//*[text() = 'Please enter the characters you see in the image above']": "Captcha"
+  "//*[text() = 'Please enter the characters you see in the image above']": "Captcha",
+  "/html/body/div[1]/div[1]/div[2]/c-wiz/div/div[2]/div/div/div/form/span/section[2]/div/div/div[2]/div[1]/img": "Captcha-FullXpath"
 }
