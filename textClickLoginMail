@@ -15,5 +15,6 @@
   "//span[text() = 'Nie teraz']": "Click",
   "//div[text() = 'Confirm your recovery email']": "Click",
   "//*[@aria-label='Tiếp tục']": "Click",
-  "//*[text() = 'إلغاء']": "Click"
+  "//*[text() = 'إلغاء']": "Click",
+  "//*[text() = 'Continue']": "Click"
 }
