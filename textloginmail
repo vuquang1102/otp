@@ -49,5 +49,6 @@
   "//span[text() = 'Pomiń']": "Click",
   "//span[text() = 'Nie teraz']": "Click",
   "//*[text() = 'Sign in with Google']": "Click",
+  "//span[text() = 'Không, cảm ơn']": "Click",
   "//div[text() = 'Confirm your recovery email']": "Click"
 }
