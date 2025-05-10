@@ -20,5 +20,4 @@
   "span[text() = 'Account disabled']": "disable",
   "//div[text() = 'Unavailable because of too many attempts. Please try again later.']": "SaiRecovery",
   "//div[contains(text(), 'Choose an account to get your code')]": "confirmOnPhone",
-  "//p[text() = "Provide a phone number to continue. We'll send a verification code that you can use to sign in."]": "AddPhoneYellow"
 }
