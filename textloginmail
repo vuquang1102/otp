@@ -51,5 +51,7 @@
   "//span[text() = 'Nie teraz']": "Click",
   "//*[text() = 'Sign in with Google']": "Click",
   "//span[text() = 'Không, cảm ơn']": "Click",
-  "//div[text() = 'Confirm your recovery email']": "Click"
+  "//div[text() = 'Confirm your recovery email']": "Click",
+  "//*[@id="yDmH0d"]/c-wiz[2]/div/c-wiz/div/div/div/div/div[4]/div/a": "Click",
+  "//*[contains(@href, 'https://console.cloud.google.com/apis')]": "Click"
 }
