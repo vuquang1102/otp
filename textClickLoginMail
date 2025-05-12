@@ -18,5 +18,6 @@
   "//*[text() = 'إلغاء']": "Click",
   "//*[text() = 'Continue']": "Click",
   "//*[text() = 'التخطّي']": "Click",
-  "//*[@id="yDmH0d"]/c-wiz[2]/div/c-wiz/div/div/div/div/div[4]/div/a": "Click"
+  "//*[@id="yDmH0d"]/c-wiz[2]/div/c-wiz/div/div/div/div/div[4]/div/a": "Click",
+  "//*[contains(@href, 'https://console.cloud.google.com/apis')]": "Click"
 }
