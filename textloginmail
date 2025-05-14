@@ -22,6 +22,7 @@
   "//input[@type='password' and @aria-disabled = 'false']": "FillPass",
   "//span[text()='Account recovery']": "Saipass",
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "Disable",
+  "//span[text() = 'Account deleted']": "AccountDeleted",
   "//h1[text()='Unable to access a Google product']": "DisInbox",
   "//div[text()='Type the text you hear or see' and @aria-hidden = 'false']": "Disable",
   "//div[text() = 'Confirm you’re not a robot']": "Verify",
