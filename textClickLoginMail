@@ -18,5 +18,5 @@
   "//*[text() = 'إلغاء']": "Click",
   "//*[text() = 'Continue']": "Click",
   "//*[text() = 'التخطّي']": "Click",
-  "//*[contains(@href, 'https://console.cloud.google.com/apis')]": "Click"
+  "(//*[contains(@href, 'https://console.cloud.google.com/apis') and @jsname= 'hSRGPd'])[2]": "Click"
 }
