@@ -18,5 +18,6 @@
   "//*[text() = 'إلغاء']": "Click",
   "//*[text() = 'Continue']": "Click",
   "//*[text() = 'التخطّي']": "Click",
-  "(//*[contains(@href, 'https://console.cloud.google.com/apis') and @jsname= 'hSRGPd'])[2]": "Click"
+  "(//*[contains(@href, 'https://console.cloud.google.com/apis') and @jsname= 'hSRGPd'])[2]": "Click",
+  "//*[@class = 'VfPpkd-vQzf8d' and text() = 'Restart']": "Click"
 }
