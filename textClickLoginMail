@@ -19,5 +19,6 @@
   "//*[text() = 'Continue']": "Click",
   "//*[text() = 'التخطّي']": "Click",
   "(//*[contains(@href, 'https://console.cloud.google.com/apis') and @jsname= 'hSRGPd'])[2]": "Click",
-  "//*[@class = 'VfPpkd-vQzf8d' and text() = 'Restart']": "Click"
+  "//*[@class = 'VfPpkd-vQzf8d' and text() = 'Restart']": "Click",
+  "/html/body/div[1]/c-wiz[3]/div/div/div/div/div/div[2]/button[1]/span": "Click",
 }
