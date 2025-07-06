@@ -54,7 +54,7 @@
   "//span[text() = 'Không, cảm ơn']": "Click",
   "//div[text() = 'Confirm your recovery email']": "Click",
   "(//*[contains(@href, 'https://console.cloud.google.com/apis') and @jsname= 'hSRGPd'])[2]": "Click",
-  "//*[@class = 'VfPpkd-vQzf8d' and text() = 'Restart']": "Click"
+  "//*[@class = 'VfPpkd-vQzf8d' and text() = 'Restart']": "Click",
   "//span[text() = 'Sign in']": "Click"
 
 }
