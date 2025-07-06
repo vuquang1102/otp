@@ -56,5 +56,4 @@
   "(//*[contains(@href, 'https://console.cloud.google.com/apis') and @jsname= 'hSRGPd'])[2]": "Click",
   "//*[@class = 'VfPpkd-vQzf8d' and text() = 'Restart']": "Click",
   "//span[text() = 'Sign in']": "Click"
-  "//span[text() = 'Sign 98900in']": "Click"
 }
