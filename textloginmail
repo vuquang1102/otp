@@ -8,7 +8,6 @@
   "//*[text() = ' To create an OAuth client ID, you must first configure your consent screen ']": "Done",
   "//span[text() = 'APIs & Services']": "Done",
   "//a[text() = 'Sign in']": "Click",
-  "//span[text() = 'Sign in']": "Click",
   "//*[text() = 'Unavailable because of too many attempts. Please try again later.']": "SaiRecovery",
   "//*[contains(text(), 'Unavailable because of too many attempts')]": "SaiRecovery",
   "//div[contains(text(), 'Confirm the recovery email address you added')]": "FillRecovery",
@@ -56,4 +55,6 @@
   "//div[text() = 'Confirm your recovery email']": "Click",
   "(//*[contains(@href, 'https://console.cloud.google.com/apis') and @jsname= 'hSRGPd'])[2]": "Click",
   "//*[@class = 'VfPpkd-vQzf8d' and text() = 'Restart']": "Click"
+  "//span[text() = 'Sign in']": "Click"
+
 }
