@@ -21,5 +21,6 @@
   "//div[text() = 'Unavailable because of too many attempts. Please try again later.']": "SaiRecovery",
   "//div[contains(text(), 'Choose an account to get your code')]": "confirmOnPhone",
   "//span[text() = 'Account deleted']": "AccountDeleted",
+  "//*[text() = 'Please enter the characters you see in the image above']": "Captcha",
   "//*[text() = 'Receive verification code via:']": "AddPhoneYellow"
 }
