@@ -22,5 +22,6 @@
   "//div[contains(text(), 'Choose an account to get your code')]": "confirmOnPhone",
   "//span[text() = 'Account deleted']": "AccountDeleted",
   "//*[text() = 'Please enter the characters you see in the image above']": "Captcha",
+  "//input[@name='ct' and @jsname='SBlSod' and @value != '']": "Captcha",
   "//*[text() = 'Receive verification code via:']": "AddPhoneYellow"
 }
