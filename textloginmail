@@ -48,16 +48,19 @@
   "//span[text() = 'Để sau']": "Click",
   "//span[text() = 'Cancel']": "Click",
   "//span[text() = 'Skip']": "Click",
-  "//span[text() = 'Not now']": "Click",
   "//span[text() = 'Pular']": "Click",
   "//span[text() = 'Agora não']": "Click",
   "//span[text() = 'Pomiń']": "Click",
-  "//span[text() = 'Nie teraz']": "Click",
   "//*[text() = 'Sign in with Google']": "Click",
   "//div[text()='Signed out']": "Click",
   "//span[text() = 'Không, cảm ơn']": "Click",
-  "//div[text() = 'Confirm your recovery email']": "Click",
   "(//*[contains(@href, 'https://console.cloud.google.com/apis') and @jsname= 'hSRGPd'])[2]": "Click",
   "//*[@class = 'VfPpkd-vQzf8d' and text() = 'Restart']": "Click",
-  "//span[text() = 'Sign in']": "Click"
+  "//*[@aria-label='Tiếp tục']": "Click",
+  "//*[text() = 'إلغاء']": "Click",
+  "//*[text() = 'Continue']": "Click",
+  "//*[text() = 'التخطّي']": "Click",
+  "/html/body/div[1]/c-wiz[3]/div/div/div/div/div/div[2]/button[1]/span": "Click",
+  "/html/body/div/c-wiz/div/div/div/div/div[2]/button[1]/span": "Click",
+  "/html/body/div[1]/c-wiz[2]/div/div/div/div/div/div[2]/button[1]/span": "Click"
 }
