@@ -1,7 +1,6 @@
 {
   "//*[text() = 'Application type']": "Done",
   "//*[text() = 'Sử dụng một tài khoản khác']": "Done",
-  "//a[@href='https://mail.google.com/mail/u/0/#inbox']": "Done",
   "//input[@aria-label='Enter query to search for resources, docs, products, and more']": "Done",
   "//span[contains(text(), 'Overview')]": "Done",
   "/html/body/div[7]/div[2]/div/mat-dialog-container/div/div/xap-deferred-loader-outlet/ng-component/mat-dialog-content/p": "Done",
