@@ -25,6 +25,7 @@
   "//h1[text()='Unable to access a Google product']": "DisabledInbox",
   "//div[text()='Type the text you hear or see' and @aria-hidden = 'false']": "AudioCaptcha",
   "//div[text() = 'Confirm you’re not a robot']": "VerifyRobot",
+  "//div[text() = 'Xác nhận bạn không phải là rô-bốt']": "VerifyRobot",
   "//span[text() = '2-Step Verification']": "TwoStepVerification",
   "//*[text() = 'Confirm the recovery email address you added to your account: ']": "NeedFillRecoveryMail",
   "//div[contains(text(), 'Google couldn’t verify this account belongs to you')]": "couldn’tverify",
