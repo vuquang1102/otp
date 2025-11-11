@@ -8,6 +8,7 @@
   "//*[text() = ' To create an OAuth client ID, you must first configure your consent screen ']": "Done",
   "//span[text() = 'APIs & Services']": "Done",
   "//a[text() = 'Sign in']": "Click",
+  "//*[text() = 'Under "Signing in to Google" tap ']", "TapOnPhone",
   "//input[@name='ct' and @jsname='SBlSod' and @value != '']": "Captcha",
   "//*[text() = 'Unavailable because of too many attempts. Please try again later.']": "SaiRecovery",
   "//*[contains(text(), 'Unavailable because of too many attempts')]": "SaiRecovery",
