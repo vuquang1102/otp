@@ -9,6 +9,7 @@
   "//div[text()='Type the text you hear or see' and @aria-hidden = 'false']": "AudioCaptcha",
   "//div[text() = 'Confirm you’re not a robot']": "VerifyRobot",
   "//h1[text()='Unable to access a Google product']": "DisabledInbox",
+  "//*[text() = 'Couldn’t find your Google Account']": "NonExist",
   "//span[text() = '2-Step Verification']": "TwoStepVerification",
   "//div[contains(text(), 'Google sent a notification to')]": "NotificationSent",
   "//*[text() = 'Wrong password. Try again or click \"Forgot password?\" for more options.']": "WrongPassword2",
