@@ -4,7 +4,7 @@
   "//div[contains(text(), 'Google sent a notification to your')]": "ConfirmOnPhone",
   "//div[contains(text(), 'This browser or app may not be secure.')]": "ErrorSecure",
   "//span[contains(text(), 'password was changed') and not(@class='y2')]": "ChangePass",
-  "//span[text() = 'Wrong password. Try again or click Forgot password to reset it.']": "WrongPassword",
+  "//span[contains(text(),'Wrong password')]": "WrongPassword",
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "AccountDisabled",
   "//div[text()='Type the text you hear or see' and @aria-hidden = 'false']": "AudioCaptcha",
   "//div[text() = 'Confirm you’re not a robot']": "VerifyRobot",
