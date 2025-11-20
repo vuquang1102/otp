@@ -11,6 +11,7 @@
   "//input[@name='ct' and @jsname='SBlSod' and @value != '']": "CaptchaInput",
   "//*[text() = 'Unavailable because of too many attempts. Please try again later.']": "TooManyAttempts",
   "//*[contains(text(), 'Unavailable because of too many attempts')]": "SaiRecovery",
+  "//*[contains(text(), 'You didn’t provide enough')]", "ChangePass",
   "//div[contains(text(), 'Confirm the recovery email address you added')]": "FillRecovery",
   "//div[contains(text(), 'Google couldn’t verify this account belongs to you.')]": "ErrorBelongtoyou",
   "//div[contains(text(), 'Google sent a notification to your')]": "ConfirmOnPhone",
