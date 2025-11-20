@@ -23,5 +23,6 @@
   "//span[text() = 'Account deleted']": "AccountDeleted",
   "//input[@name='ct' and @jsname='SBlSod' and @value != '']": "CaptchaInput",
   "//*[text() = 'Please enter the characters you see in the image above']": "ImageCaptcha",
-  "//*[text() = 'Receive verification code via:']": "ReceiveCodeOptions"
+  "//*[text() = 'Receive verification code via:']": "ReceiveCodeOptions",
+  "//*[contains(text(), 'You didn’t provide enough')]", "ChangePass"
 }
