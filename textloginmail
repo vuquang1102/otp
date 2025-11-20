@@ -8,6 +8,7 @@
   "//span[text() = 'APIs & Services']": "Done",
   "//a[@href='https://mail.google.com/mail/u/0/#inbox']": "Done",
   "//*[text() = 'Under \\\"Signing in to Google\\\" tap ']": "TapOnPhone",
+  "//span[text() = 'Scan the QR code to verify your phone number']": "ScanQrCode",
   "//input[@name='ct' and @jsname='SBlSod' and @value != '']": "CaptchaInput",
   "//*[text() = 'Unavailable because of too many attempts. Please try again later.']": "TooManyAttempts",
   "//*[contains(text(), 'Unavailable because of too many attempts')]": "SaiRecovery",
