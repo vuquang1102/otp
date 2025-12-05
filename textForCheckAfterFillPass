@@ -25,5 +25,6 @@
   "//*[text() = 'Please enter the characters you see in the image above']": "ImageCaptcha",
   "//*[text() = 'Receive verification code via:']": "ReceiveCodeOptions",
   "//*[contains(text(), 'You didn’t provide enough')]": "ChangePass",
-  "//span[text() = 'Scan the QR code to verify your phone number']": "ScanQrCode"
+  "//span[text() = 'Scan the QR code to verify your phone number']": "ScanQrCode",
+  "//h1[text() = 'Review service restriction']": "Restrictions"
 }
