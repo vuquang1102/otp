@@ -7,6 +7,7 @@
   "//*[text() = ' To create an OAuth client ID, you must first configure your consent screen ']": "Done",
   "//span[text() = 'APIs & Services']": "Done",
   "//a[@href='https://mail.google.com/mail/u/0/#inbox']": "Done",
+  "//h1[text() = 'Review service restriction']": "Restrictions",
   "//*[text() = 'Under \\\"Signing in to Google\\\" tap ']": "TapOnPhone",
   "//span[text() = 'Scan the QR code to verify your phone number']": "ScanQrCode",
   "//input[@name='ct' and @jsname='SBlSod' and @value != '']": "CaptchaInput",
