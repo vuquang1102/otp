@@ -26,5 +26,6 @@
   "//*[text() = 'Receive verification code via:']": "ReceiveCodeOptions",
   "//*[contains(text(), 'You didn’t provide enough')]": "ChangePass",
   "//span[text() = 'Scan the QR code to verify your phone number']": "ScanQrCode",
-  "//h1[text() = 'Review service restriction']": "Restrictions"
+  "//h1[text() = 'Review service restriction']": "Restrictions",
+  "//*[text() = 'Use a phone number from your account']": "UsePhoneNumber"
 }
