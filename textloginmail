@@ -42,6 +42,7 @@
   "//div[text() = 'Confirm your recovery phone number']": "ConfirmRecoveryPhone",
   "//span[text() = 'Account disabled']": "AccountDisabled2",
   "//div[contains(text(), 'Choose an account to get your code')]": "ChooseAccountForCode",
+  "//*[text() = 'Use a phone number from your account']": "UsePhoneNumber",
   "//input[@type='password' and @aria-disabled = 'false']": "FillPass",
   "//input[@type='email']": "FillMail",
   "//div[text() = 'Confirm your recovery email']": "Click",
