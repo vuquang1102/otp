@@ -58,7 +58,6 @@
   "//span[text() = 'Pular']": "Click",
   "//span[text() = 'Agora não']": "Click",
   "//span[text() = 'Pomiń']": "Click",
-  "//*[text() = 'Sign in with Google']": "Click",
   "//div[text()='Signed out']": "Click",
   "//span[text() = 'Không, cảm ơn']": "Click",
   "(//*[contains(@href, 'https://console.cloud.google.com/apis') and @jsname= 'hSRGPd'])[2]": "Click",
