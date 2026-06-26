@@ -43,6 +43,7 @@
   "//span[text() = 'Account disabled']": "AccountDisabled2",
   "//div[contains(text(), 'Choose an account to get your code')]": "ChooseAccountForCode",
   "//*[text() = 'Use a phone number from your account']": "UsePhoneNumber",
+  "//*[text() = 'Get a code to sign in']" : "GetACodeToSignIn",
   "//input[@type='password' and @aria-disabled = 'false']": "FillPass",
   "//input[@aria-label='Email or phone']": "FillMail",
   "//div[text() = 'Confirm your recovery email']": "Click",
