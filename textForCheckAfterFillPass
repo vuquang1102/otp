@@ -7,6 +7,7 @@
   "//span[contains(text(),'Wrong password')]": "WrongPassword",
   "//span[text()='Tài khoản của bạn đã bị vô hiệu hóa']": "AccountDisabled",
   "//div[text()='Type the text you hear or see' and @aria-hidden = 'false']": "AudioCaptcha",
+  "//span[text()='Scan the QR code with your phone']" : "Scan QR Code",
   "//div[text() = 'Confirm you’re not a robot']": "VerifyRobot",
   "//h1[text()='Unable to access a Google product']": "DisabledInbox",
   "//*[text() = 'Couldn’t find your Google Account']": "NonExist",
