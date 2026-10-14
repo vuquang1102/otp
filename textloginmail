@@ -35,6 +35,7 @@
   "//*[text() = 'Confirm the recovery email address you added to your account: ']": "NeedFillRecoveryMail",
   "//div[contains(text(), 'Google couldn’t verify this account belongs to you')]": "couldn’tverify",
   "//div[text() = 'Enter a phone number to get a text message with a verification code.']": "AddPhoneNumber",
+  "//span[text()='Scan the QR code with your phone']" : "Scan QR Code",
   "//*[text() = 'Receive verification code via:']": "ReceiveCodeOptions",
   "//h1[text() = 'Xác minh danh tính của bạn']": "VeriPhone",
   "//div[contains(text(), 'We noticed unusual activity in your Google Account')]": "UnusualActivity",
