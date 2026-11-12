@@ -29,6 +29,7 @@
   "//span[text() = 'Account deleted']": "AccountDeleted",
   "//h1[text()='Unable to access a Google product']": "DisabledInbox",
   "//*[text() = 'We couldn’t verify it’s you']" : "We couldn’t verify it’s you",
+  "//*[text() = 'Choose a parent']" : "Error chose parent",
   "//div[text()='Type the text you hear or see' and @aria-hidden = 'false']": "AudioCaptcha",
   "//div[text() = 'Confirm you’re not a robot']": "VerifyRobot",
   "//div[text() = 'Xác nhận bạn không phải là rô-bốt']": "VerifyRobot",
